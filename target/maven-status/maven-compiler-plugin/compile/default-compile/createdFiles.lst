@@ -1,0 +1,17 @@
+weather/provider/WeatherApiProvider.class
+weather/provider/OpenWeatherProvider.class
+weather/processor/BaseWeatherProcessor.class
+weather/provider/CustomWeatherProvider.class
+weather/unit/HpaStrategy.class
+weather/unit/KilometersPerHourStrategy.class
+weather/processor/WeatherProcessor.class
+weather/unit/FahrenheitStrategy.class
+weather/unit/CelsiusStrategy.class
+weather/provider/WeatherProvider.class
+weather/unit/WeatherUnitConverter.class
+weather/model/WeatherData.class
+weather/unit/MetersPerSecondStrategy.class
+weather/unit/InHgStrategy.class
+weather/unit/UnitConversionStrategy.class
+weather/cache/WeatherCache.class
+weather/provider/WeatherProviderFactory.class

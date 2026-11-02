@@ -1,0 +1,11 @@
+weather/processor/WeatherProcessorTest.class
+weather/processor/BaseWeatherProcessorTest.class
+weather/provider/WeatherProviderFactoryTest.class
+weather/unit/WeatherUnitConverterTest.class
+weather/provider/WeatherApiProviderTest.class
+weather/processor/BaseWeatherProcessorTest$FakeProcessor.class
+weather/processor/BaseWeatherProcessorTest$1.class
+weather/provider/CustomWeatherProviderTest.class
+weather/cache/WeatherCacheTest.class
+weather/provider/OpenWeatherProviderTest.class
+weather/unit/UnitConversionStrategyTest.class

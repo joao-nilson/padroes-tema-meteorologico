@@ -1,0 +1,17 @@
+/home/si/Documents/uf/AspAvancEngSoft/weather-processing/src/main/java/weather/cache/WeatherCache.java
+/home/si/Documents/uf/AspAvancEngSoft/weather-processing/src/main/java/weather/model/WeatherData.java
+/home/si/Documents/uf/AspAvancEngSoft/weather-processing/src/main/java/weather/processor/BaseWeatherProcessor.java
+/home/si/Documents/uf/AspAvancEngSoft/weather-processing/src/main/java/weather/processor/WeatherProcessor.java
+/home/si/Documents/uf/AspAvancEngSoft/weather-processing/src/main/java/weather/provider/CustomWeatherProvider.java
+/home/si/Documents/uf/AspAvancEngSoft/weather-processing/src/main/java/weather/provider/OpenWeatherProvider.java
+/home/si/Documents/uf/AspAvancEngSoft/weather-processing/src/main/java/weather/provider/WeatherApiProvider.java
+/home/si/Documents/uf/AspAvancEngSoft/weather-processing/src/main/java/weather/provider/WeatherProvider.java
+/home/si/Documents/uf/AspAvancEngSoft/weather-processing/src/main/java/weather/provider/WeatherProviderFactory.java
+/home/si/Documents/uf/AspAvancEngSoft/weather-processing/src/main/java/weather/unit/CelsiusStrategy.java
+/home/si/Documents/uf/AspAvancEngSoft/weather-processing/src/main/java/weather/unit/FahrenheitStrategy.java
+/home/si/Documents/uf/AspAvancEngSoft/weather-processing/src/main/java/weather/unit/HpaStrategy.java
+/home/si/Documents/uf/AspAvancEngSoft/weather-processing/src/main/java/weather/unit/InHgStrategy.java
+/home/si/Documents/uf/AspAvancEngSoft/weather-processing/src/main/java/weather/unit/KilometersPerHourStrategy.java
+/home/si/Documents/uf/AspAvancEngSoft/weather-processing/src/main/java/weather/unit/MetersPerSecondStrategy.java
+/home/si/Documents/uf/AspAvancEngSoft/weather-processing/src/main/java/weather/unit/UnitConversionStrategy.java
+/home/si/Documents/uf/AspAvancEngSoft/weather-processing/src/main/java/weather/unit/WeatherUnitConverter.java

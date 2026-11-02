@@ -1,0 +1,9 @@
+/home/si/Documents/uf/AspAvancEngSoft/weather-processing/src/test/java/weather/cache/WeatherCacheTest.java
+/home/si/Documents/uf/AspAvancEngSoft/weather-processing/src/test/java/weather/processor/BaseWeatherProcessorTest.java
+/home/si/Documents/uf/AspAvancEngSoft/weather-processing/src/test/java/weather/processor/WeatherProcessorTest.java
+/home/si/Documents/uf/AspAvancEngSoft/weather-processing/src/test/java/weather/provider/CustomWeatherProviderTest.java
+/home/si/Documents/uf/AspAvancEngSoft/weather-processing/src/test/java/weather/provider/OpenWeatherProviderTest.java
+/home/si/Documents/uf/AspAvancEngSoft/weather-processing/src/test/java/weather/provider/WeatherApiProviderTest.java
+/home/si/Documents/uf/AspAvancEngSoft/weather-processing/src/test/java/weather/provider/WeatherProviderFactoryTest.java
+/home/si/Documents/uf/AspAvancEngSoft/weather-processing/src/test/java/weather/unit/UnitConversionStrategyTest.java
+/home/si/Documents/uf/AspAvancEngSoft/weather-processing/src/test/java/weather/unit/WeatherUnitConverterTest.java
